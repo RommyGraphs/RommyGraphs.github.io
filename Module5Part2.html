@@ -64,6 +64,8 @@ d3.csv("https://rommygraphs.github.io/data/presidents.csv",function(data) {
 		var opt = document.createElement("option");
 		opt.value = presArray[i].Name;
 		opt.label = presArray[i].Name;
+		
+		opt.innerHTML = presArray[i].Name;
 
 		selPresidents.appendChild(opt);	
 	}
