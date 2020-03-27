@@ -33,17 +33,19 @@
 
 ![Part 2 HTML](img2.png)
 
+* I initially developed the code in Microsoft Edge web browser. However, I had to debug and solve issues with the code when I tried to display this in Google Chrome and Mozilla FireFox. These web pages were tested in Microsoft Edge, Google Chrome, and Mozilla FireFox.
+
 ### Reference(s)
 
-1. **Data Loading in D3.** Retrieved from website: https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js
+1. **Data Loading in D3.** Retrieved from website: [https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js](https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js)
 
-2. **How To Create a Two Column Layout.** Retrieved from website: https://www.w3schools.com/howto/howto_css_two_columns.asp
+2. **How To Create a Two Column Layout.** Retrieved from website: [https://www.w3schools.com/howto/howto_css_two_columns.asp](https://www.w3schools.com/howto/howto_css_two_columns.asp)
 
-3. **How to populate the options of a select element in javascript.** Retrieved from website: https://stackoverflow.com/questions/6601028/how-to-populate-the-options-of-a-select-element-in-javascript    
+3. **How to populate the options of a select element in javascript.** Retrieved from website: [https://stackoverflow.com/questions/6601028/how-to-populate-the-options-of-a-select-element-in-javascript](https://stackoverflow.com/questions/6601028/how-to-populate-the-options-of-a-select-element-in-javascript)
 
-4. **HTML Select Tag.** Retrieved from website: https://www.w3schools.com/tags/tag_select.asp
+4. **HTML Select Tag.** Retrieved from website: [https://www.w3schools.com/tags/tag_select.asp](https://www.w3schools.com/tags/tag_select.asp)
 
-5. **Mastering Markdown.** Retrieved from website: https://guides.github.com/features/mastering-markdown/
+5. **Mastering Markdown.** Retrieved from website: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 
 
