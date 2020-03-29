@@ -13,19 +13,19 @@
 
 * For Part 1, Question 1, I developed an HTML text field, button, and div. The button has an onClick function reference to reverseString(). The function checks for an empty string and returns an error message if it exists. Otherwise the function will perform a for-loop that reverses the string input. The resulting string is outputted to the DIV target1. 
 
-* For Part 1, Question 2, I developed an HTML text field which only accepts numbers, button, and div. The button has an onClick function reverence to calcMultiples(). The fuction checks for an empty number and returns an error message if it exists. Otherwise, the function will output the first 20 multiples of the inputted number. The HTML table is created in a 5x4 structure and the HTML table is displayed in DIV target2.
+* For Part 1, Question 2, I developed an HTML text field (which only accepts numbers), button, and div. The button has an onClick function reference to calcMultiples(). The fuction checks for an empty number and returns an error message if it exists. Otherwise, the function will output the first 20 multiples of the inputted number. The HTML table is created in a 5x4 structure and the HTML table is displayed in DIV target2.
 
 * The output for Part 1 looks like this:
 
 ![Part 1 HTML](img1.png)
 
-* For Part 2, upon start up of the HTML file, I called javascript function d3.csv to load presidents.csv directly (Ref: 1) and store the incoming data in a Javascript object called pressArray. That object will be used to answer both questions of Part 2.
+* For Part 2, upon start up of the HTML file, I called javascript function d3.csv to load presidents.csv directly (Ref: 1) and store the incoming data in a Javascript object called presArray. That object will be used to answer both questions of Part 2.
 
-* The d3.csv function, I also wanted to populate the HTML select for Question 2 by dynamically add the options using the Presidents' names (Ref: 3).
+* The d3.csv function, I also wanted to populate the HTML select for Question 2 by dynamically adding the options using the Presidents' names (Ref: 3).
 
 * For Part 2, Question 1, I developed an HTML button and div. The button has an onClick function reference to loadData(). The function will iterate through the presArray and put each President's name, height, and weight in a row of data in HTML table. The resulting HTML table is outputted to the DIV target1.
 
-* For Part 2, Question 2, I developed an HTML select, button, and div. The button has an onClick function reference to getInfo(). The function will return an error message if no President is selected. Otherwise, the function will use the index of the selected President to get the row data from the presArray object. The selected President's name, height, and weight will be displayed in DIV target2.
+* For Part 2, Question 2, I developed an HTML select, button, and div. The button has an onClick function reference to getInfo(). The function will return an error message if no President is selected. Otherwise, the function will use the index of the selected President to get the row data from the presArray object. The selected President's name, height, and weight will be displayed in DIV target2 as an informative, formatted string sentence.
 
 * You will notice that the Question 2 HTML page is split into two columns for ease of view (Ref: 2).
 
@@ -33,7 +33,7 @@
 
 ![Part 2 HTML](img2.png)
 
-* I initially developed the code in Microsoft Edge web browser. However, I had to debug and solve issues with the code when I tried to display this in Google Chrome and Mozilla FireFox. These web pages were tested in Microsoft Edge, Google Chrome, and Mozilla FireFox.
+* I initially developed the code in Microsoft Edge web browser. However, I had to debug and solve issues with the code when I tried to display this in Google Chrome and Mozilla FireFox. These web pages were successfully tested and viewable in Microsoft Edge, Google Chrome, and Mozilla FireFox.
 
 ### Reference(s)
 
