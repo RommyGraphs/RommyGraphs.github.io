@@ -1,6 +1,25 @@
 # DATA608 
 # Romerl Elizes 
 
+## Data 608 - Module 6 - Assignment Link
+
+[Completed App](d3_lab/d3_lab.html)
+
+### Approach and Analysis
+
+* I basically followed the laboratory. I modified the two source files: 01answer.js and 07offset.js to answer the questions.
+
+* For the Line Chart solution, I used a subset of the multiple line chart solution to make the one line chart. For display purposes, I used a red line to display the line for Agriculture.
+
+* For the Steam Chart solution, I researched the solution and found that the attribute **transform** with the value **translate(xmove,ymove)**. (Ref: 1) I played with the x and y values in order to center the steamgraph on the DIV element. Moreover, the bottom of the chart was not showing and through experimentation I was able to display the chart nicely.
+
+* I did not research any other method to move the chart to the center of the DIV element.
+
+### Reference(s)
+
+1. **SVG - Chapter 8: Coordinate Systems, Transformations and Units.** Retrieved from website: https://www.w3.org/TR/SVG/coords.html#TransformAttribute
+
+
 ## Data 608 - Module 5 - Assignment Links
 
 [Part 1 - Assignment Link](Module5Part1.html)
